@@ -1,0 +1,26 @@
+# Core Dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# EEG Processing
+mne>=1.0.0
+
+# Physiological Signal Processing
+neurokit2>=0.2.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Game/VR Interface
+pygame>=2.1.0
+
+# Visualization and Analysis
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Development & Testing
+pytest>=7.0.0
