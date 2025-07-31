@@ -1,6 +1,10 @@
 # Military-decision-making-iot-training
 
-# Adaptive Simulation-Based Training for Military Decision-Making: Leveraging IoT-Derived Cognitive and Emotional Feedback
+Adaptive Simulation-Based Training for Military Decision-Making: Leveraging IoT-Derived Cognitive and Emotional Feedback
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
+[![Conference](https://img.shields.io/badge/Conference-MODSIM%20World%202025-green.svg)](https://modsimworld.org/)
 
 ## Abstract
 
